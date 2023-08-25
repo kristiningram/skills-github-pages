@@ -1,4 +1,4 @@
 ---
 title: Welcome to my domain!
 ---
-# A safe space for everyone. 
+A safe space for everyone. 
